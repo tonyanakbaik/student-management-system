@@ -56,6 +56,17 @@ major (VARCHAR)
 
 http://localhost/student-management-system
 
+## Preview
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Add Student Form
+![Add Student](add-student.png)
+
+### Student Data
+![Student Data](students-data.png)
+
 ## Author
 
 Tony Dermawan
